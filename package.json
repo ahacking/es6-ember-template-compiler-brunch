@@ -1,0 +1,33 @@
+{
+  "name": "es6-ember-template-compiler-brunch",
+  "version": "0.1.0",
+  "description": "Brunch plugin for compiling Ember templates to Ember-CLI compatible ES6 modules.",
+  "main": "index.js",
+  "author": "Andrew Hacking",
+  "license": "MIT",
+  "homepage": "https://github.com/ahacking/es6-ember-template-compuler-brunch",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahacking/es6-ember-template-compiler-brunch.git"
+  },
+  "keywords": [
+    "es6",
+    "transpiler",
+    "compiler",
+    "brunch",
+    "template",
+    "handlebars"
+  ],
+  "bugs": {
+    "url": "https://github.com/ahacking/es6-ember-template-compiler-brunch/issues"
+  },
+  "scripts": {
+  },
+  "dependencies": {
+    "es6-module-transpiler-js-brunch": "0.1.0",
+    "ember-template-compiler": ">= 1.0.0",
+    "handlebars": ">= 1.0.0 < 2.0.0"
+  },
+  "devDependencies": {
+  }
+}
